@@ -11,7 +11,7 @@ int main()
     {
       printf("Chyba!\n" );
     }
-    // fro hmotnost
+    // for hmotnost
     printf("Zadej svoji hmotnost [kg]: ");
     scanf("%f", &weight);
     if (weight <= 1 && weight >= 2.4)
