@@ -14,7 +14,9 @@ int main()
 
     // so it's basically  scanf("%s\n ahuetwow", name ); but i can press spacebar :)
 
-    printf("Ur name is %sahuetwow", name );
+    printf("Name: ");
+    puts(name);
+
 
   return 0;
 }
