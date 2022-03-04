@@ -4,7 +4,7 @@
 int main()
 {
 // guys explain pointers pls what the fuck
-// i understand that
+// i DON'T understand that
 int age = 5;
 int *pAge = &age;
 
